@@ -1,10 +1,10 @@
-<h1 align="center">Welcome | Bienvenue | مرحبًا</h1>
+<h1 align="center">Welcome | مرحبًا</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cyber_Security-Engineer-critical?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/Linux-Kali/Arch/BackBox-blue?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/Programming-Python/C/C++/Java/JS/PHP-success?style=for-the-badge&logo=codewars" />
-  <img src="https://img.shields.io/badge/Languages-English/French/Arabic-lightgrey?style=for-the-badge&logo=googletranslate" />
+  <img src="https://img.shields.io/badge/Languages-English/Arabic-lightgrey?style=for-the-badge&logo=googletranslate" />
 </p>
 
 ---
@@ -16,16 +16,6 @@
 🎯 I want to pursue a **Master's and PhD in Cybersecurity**, with a focus on **AI and ethical hacking**.  
 👨‍💻 My dream is to work at **Microsoft** in the **United States 🇺🇸**, **Canada 🇨🇦**, or the **United Kingdom 🇬🇧** as a **Cyber Security Engineer** and contribute to global digital defense.  
 🧠 I specialize in **ethical hacking, malware analysis**, and **network security**. I build custom tools and scripts using Python and C.
-
----
-
-## 🇫🇷 À propos de moi
-
-🎓 J’étudie actuellement la **cybersécurité** et l’**informatique** en Tunisie.  
-📘 J’ai une formation en **réseaux informatiques**, avec de solides compétences en **programmation** et **systèmes Linux**.  
-🎯 Mon objectif est de faire un **Master** puis un **Doctorat en cybersécurité**, en me spécialisant dans l’**IA et le hacking éthique**.  
-👨‍💻 Mon rêve est de travailler chez **Microsoft** aux **États-Unis 🇺🇸**, au **Canada 🇨🇦** ou au **Royaume-Uni 🇬🇧** en tant qu’**ingénieur en cybersécurité**, et de contribuer à la défense numérique mondiale.  
-🧠 Je suis passionné par le **hacking éthique**, l’analyse de malware et la sécurité des réseaux.
 
 ---
 
@@ -62,9 +52,9 @@
 ## 🤝 Let's Connect
 
 - 📧 Email: deepblackstone.d.b.s@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/deepblackstone](https://linkedin.com/in/deepblackstone)  
+- 💼 LinkedIn: [linkedin.com/in/deepblackstone](https://www.linkedin.com/in/deep-black-stone/)  
 - 🔒 TryHackMe: [tryhackme.com/p/DeepBlackStone](https://tryhackme.com)  
-- 🌐 Portfolio: [deepblackstone.github.io](https://deepblackstone.github.io)
+- 🌐 Portfolio: [deepblackstone.github.io](https://github.com/Deep-Black-Stone)
 
 ---
 
